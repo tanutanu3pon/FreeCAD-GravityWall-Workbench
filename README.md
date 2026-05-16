@@ -21,7 +21,7 @@ Automatic calculation of the total concrete volume.
 
 5:Surface Area Analysis
 
-My Homepage:https://www.freecad-horilab.com/p/hori-lab.html
+My Homepage:[[https://www.freecad-horilab.com/p/hori-lab.html
 
 Automatic calculation of the concrete surface area (useful for formwork and finishing estimates).
 <img width="439" height="439" alt="2026-01-11_19h07_52" src="https://github.com/user-attachments/assets/6e8a2701-cdbb-43ab-bf51-408294c2b884" />
