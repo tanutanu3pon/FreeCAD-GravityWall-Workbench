@@ -1,4 +1,4 @@
-# Retaining Wall Workbench for FreeCAD 1.0.2
+# Retaining Wall Workbench for FreeCAD 1.1.1
 
 [![FreeCAD Version](https://img.shields.io/badge/FreeCAD-1.0.2-blue.svg)](https://www.freecad.org/)
 [![License](https://img.shields.io/badge/License-LGPL_v2.1-green.svg)](https://purple-flicker-550.notion.site)
