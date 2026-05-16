@@ -1,11 +1,11 @@
 # Retaining Wall Workbench for FreeCAD 1.1.1
 
-[![FreeCAD Version](https://img.shields.io/badge/FreeCAD-1.0.2-blue.svg)](https://www.freecad.org/)
+[![FreeCAD Version](https://img.shields.io/badge/FreeCAD-1.1.1-blue.svg)](https://www.freecad.org/)
 [![License](https://img.shields.io/badge/License-LGPL_v2.1-green.svg)](https://purple-flicker-550.notion.site)
 
 An open-source FreeCAD workbench designed for civil engineers to automate the 3D modeling, alignment, and quantity estimation of concrete retaining walls.
 
-土木技術者のための、FreeCAD用擁壁（ようへき）モデリング・自動計算ワークベンチです。パラメトリックな形状生成から、R形状への配置、コンクリート体積・型枠面積の自動算出まで、土木BIM/CIM設計業務を大幅に効率化します。
+土木技術者のための、FreeCAD用擁壁（ようへき）モデリング・自動計算ワークベンチです。パラメトリックな形状生成から、R形状への配置、コンクリート体積・型枠面積の自動算出まで、土木BIM/CIM設計業務を大幅に効率化します。FreeCAD 1.1.1 の最新環境に完全対応。
 
 ---
 
@@ -62,8 +62,7 @@ An open-source FreeCAD workbench designed for civil engineers to automate the 3D
 ---
 
 ## Keywords (SEO)
-FreeCAD, Civil Engineering, Retaining Wall, BIM, CIM, 3D Modeling, Open Source CAD, Concrete Volume, Formwork Calculation, Infrastructure Design, 土木設計, 擁壁BIM, 数量算出, 型枠面積, 基礎コンクリート, パラメトリックモデリング
-
+FreeCAD 1.1.1, Civil Engineering, Retaining Wall, BIM, CIM, 3D Modeling, Open Source CAD, Concrete Volume, Formwork Calculation, Infrastructure Design, IFC export, Digital Twin, 土木設計, 擁壁BIM, 数量算出, 型枠面積, 基礎コンクリート, パラメトリックモデリング
 My Homepage:[[https://www.freecad-horilab.com/p/hori-lab.html
 
 Automatic calculation of the concrete surface area (useful for formwork and finishing estimates).
